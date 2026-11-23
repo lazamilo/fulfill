@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fulfill",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "http-server@14.1.1", "/Users/lazarmilosevic/Desktop/fulfill", "-p", "4317", "-c-1", "-s"],
+      "port": 4317
+    }
+  ]
+}
